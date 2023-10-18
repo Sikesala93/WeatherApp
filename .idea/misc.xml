@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/layout/activity_main.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/layout/app_bar_main.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/layout/content_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/layout/fragment_a_p_i.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/layout/fragment_data_read.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/layout/fragment_feedback_read.xml" value="0.22" />
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/layout/fragment_home.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/layout/fragment_maps.xml" value="0.22" />
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/layout/fragment_mqtt.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/layout/fragment_open_street_map.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/layout/fragment_send_feedback.xml" value="0.22" />
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/layout/recyclerview_item_row.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/menu/activity_main_drawer.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sirkku/AndroidStudioProjects/EdistynytMobiiliohjelmointi2022/app/src/main/res/menu/main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Sirkku/Documents/GitHub/edistynytmobiiliohjelmointi2022spring/app/src/main/res/drawable/customborder.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Sirkku/Documents/GitHub/edistynytmobiiliohjelmointi2022spring/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/Sirkku/Documents/GitHub/edistynytmobiiliohjelmointi2022spring/app/src/main/res/layout/fragment_calendar.xml" value="0.1" />
+        <entry key="..\:/Users/Sirkku/Documents/GitHub/edistynytmobiiliohjelmointi2022spring/app/src/main/res/layout/fragment_local_message.xml" value="0.11775362318840579" />
+        <entry key="..\:/Users/Sirkku/Documents/GitHub/edistynytmobiiliohjelmointi2022spring/app/src/main/res/layout/fragment_mqtt.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Sirkku/Documents/GitHub/edistynytmobiiliohjelmointi2022spring/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/Sirkku/Documents/GitHub/edistynytmobiiliohjelmointi2022spring/app/src/main/res/menu/activity_main_drawer.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/sikesala/Documents/GitHub/edistynytmobiiliohjelmointi2022spring/app/src/main/res/layout/app_bar_main.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/sikesala/Documents/GitHub/edistynytmobiiliohjelmointi2022spring/app/src/main/res/layout/fragment_local_message.xml" value="0.33" />
+        <entry key="..\:/Users/sikesala/Documents/GitHub/edistynytmobiiliohjelmointi2022spring/app/src/main/res/layout/nav_header_main.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/sikesala/Documents/GitHub/edistynytmobiiliohjelmointi2022spring/app/src/main/res/menu/activity_main_drawer.xml" value="0.246875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
